@@ -9,7 +9,7 @@ Add the required module to your `composer.json` file:
     {
         "require": {
             ...
-            "chailong/phpqrcode": "1.0.1"
+            "chailong/phpqrcode": "dev-master"
             ...
         }
     }
