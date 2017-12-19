@@ -1,5 +1,5 @@
 {
-    "name": "chailong/sonnyqrcode",
+    "name": "chailong/phpqrcode",
     "description": "phpqrcode package",
     "require": {
         "php": ">=5.4"
