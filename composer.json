@@ -8,7 +8,4 @@
         "psr-0": { "chailong\\phpqrcode\\": "" }
     },
     "target-dir": "chailong/phpqrcode/",
-    "autoload-dev": {
-        "psr-4": { "chailong\\phpqrcode\\": "test/" }
-    }
 }
