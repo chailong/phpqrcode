@@ -6,6 +6,5 @@
     },
     "autoload": {
         "psr-0": { "chailong\\phpqrcode\\": "" }
-    },
-    "target-dir": "chailong/phpqrcode/"
+    }
 }
