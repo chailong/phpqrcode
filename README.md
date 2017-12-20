@@ -22,3 +22,4 @@ Then run the command `composer update`.
 Sample code:
 
     \PHPQRCode\QRcode::png("Test", "/tmp/qrcode.png", 'L', 4, 2);
+    \PHPQRCode\QRcode::jpg("Test", "/tmp/qrcode.png", 'L', 4, 2);
