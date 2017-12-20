@@ -1,4 +1,4 @@
-# PHP QRCode Library
+# PHP QRCode Library test
 
 To install this library please follow the next steps:
 
@@ -23,3 +23,4 @@ Sample code:
 
     \PHPQRCode\QRcode::png("Test", "/tmp/qrcode.png", 'L', 4, 2);
     \PHPQRCode\QRcode::jpg("Test", "/tmp/qrcode.png", 'L', 4, 2);
+    \PHPQRCode\QRcode::jpeg("Test", "/tmp/qrcode.png", 'L', 4, 2);
